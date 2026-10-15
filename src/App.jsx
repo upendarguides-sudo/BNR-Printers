@@ -13,8 +13,8 @@ function App() {
         <Hero />
         <Services />
         <Gallery />
+       <Contact />
         <Reviews />
-        <Contact />
       </main>
       <footer className="bg-slate-950 text-slate-300">
         <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-4 px-5 py-8 text-center sm:flex-row sm:px-8 sm:text-left">
